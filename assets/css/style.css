@@ -1,0 +1,21 @@
+.main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color:darkslateblue;
+    color: white;
+    height: 100vh;
+}
+h1 {
+    background-color: white;
+    color: black;
+}
+h2 {
+    font-size: 2rem;
+    font-weight: 900;
+    text-decoration: underline;
+}
+h5 {
+    margin-top: -10px;
+    font-size: 1.3rem;
+}
